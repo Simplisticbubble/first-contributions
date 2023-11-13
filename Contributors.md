@@ -2986,6 +2986,7 @@ Nikhil R
 - [Darshan Patel](https://github.com/Darshan2923)
 - [Add Byeongun Park](https://github.com/bupark82)
 - [Another Byeongun Park](https://github.com/bupark82)
+- [Kevin Seu](https://github.com/Simplisticbubble)
 - [Gaurav Nahata](https://github.com/GauravN123)
 - [Priyanka Singh](https://github.com/priyanka2710singhs)
 - [Roushan Kumar](https://github.com/RoushanFW196)
